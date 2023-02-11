@@ -1,1 +1,2 @@
-git pull up_to_date`
+#!/bin/bash
+git pull up_to_date
